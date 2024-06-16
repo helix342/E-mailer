@@ -3,9 +3,9 @@ import ssl
 import smtplib
 
 enter = input("Enter mail you want to send to : ")
-sender = "samiisboss1574@gmail.com"
+sender = "SENDER_MAIL_ID"
 receiver = enter
-password = "latnnsmzgfqtxhwd"
+password = "SENDER_MAIL_AUTH_PASSWORD"
 subject = "You've Got Mail"
 body = "Monty Python is not the best circus."
 
